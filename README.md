@@ -1,4 +1,4 @@
 # github-demo
 This is our first Git Repository.
 <br>
-Author-Sirajam Munira Rifa
+Author-Sirajam Munira Rifa (University of Chittagong)
